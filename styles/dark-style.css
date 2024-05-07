@@ -1,0 +1,43 @@
+body {
+    background-color: #242521;
+}
+.container{
+    background-color: #4b4b4b;
+    box-shadow: 0 0 10px #e7e7e7;
+}
+.title, label{
+    color: #fff;
+}
+input[type=login], input[type=password], input[type=text]{
+    background-color: #515151;
+    box-shadow: 0 0 2px #e7e7e7;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.grnBtn {
+    background-color: rgba(52, 90, 52, 0.827);
+    box-shadow: 0 0 5px #4CAF50;
+}
+
+.log_out {
+    background-color: #d8603b8c;
+    box-shadow: 0 0 5px #c54e33;
+}
+.header {
+    background-color: #4b4b4b;
+    border-bottom:1px solid #f5f5f54b;
+}
+.tdlCont{
+    background-color: #4b4b4b;
+    box-shadow: 0 1px 2px #e7e7e7;
+}
+.fa-pen-to-square{
+    color: rgba(136, 195, 109, 0.827);
+}
+.fa-trash {
+    color: #d8603ba9;
+}
+.TDL li{
+    color: #fff;
+}
